@@ -1,18 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Sebastião+Cosme+!)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Sebastião+Cosme+!">
+</p>
 
 <h1 align="center">Olá! 👋</h1>
 
-<p align="center">Meu nome é [Seu Nome] e eu sou um [Sua Profissão ou Interesses]. Bem-vindo ao meu perfil do GitHub!</p>
+<p align="center">Meu nome é sebastião Cosme Agostinho e eu sou um Desenvolvedor full-Stack. Bem-vindo ao meu perfil do GitHub!</p>
 
 <h2 align="center">Sobre Mim</h2>
 
-<ul>
-  <li>💼 Trabalho como [Sua Posição] na [Sua Empresa]</li>
-  <li>🎓 Formação em [Sua Área de Estudo]</li>
-  <li>🌱 Estou sempre aprendendo e procurando novas oportunidades de crescimento</li>
-  <li>💡 Interessado em [Tópicos de Interesse]</li>
+<ul align="center">
+Sou um profissional de TI dedicado e apaixonado por resolver desafios complexos através da implementação de soluções inovadoras. Com experiência sólida em linguagens como JavaScript, TypeScript e Node.js, bem como em bancos de dados SQL, NoSql e em ambientes Docker, busco constantemente aprimorar a eficiência e a qualidade dos sistemas.
+
+Além do meu trabalho técnico, busco integrar conhecimentos em marketing digital e empreendedorismo para maximizar o sucesso de projetos de TI. Nos meus momentos de lazer, me dedico à produção musical e à busca por inspiração e criatividade, habilidades essenciais para uma abordagem inovadora na resolução de problemas.
+
+Com uma mentalidade ágil e proativa, estou sempre pronto para enfrentar novos desafios e superar obstáculos. Acredito na aprendizagem contínua e na evolução constante como pilares fundamentais para o sucesso na área de tecnologia da informação.
+
 </ul>
 
 <h2 align="center">Tecnologias</h2>
@@ -43,28 +49,38 @@
 <p align="center">Aqui estão alguns dos meus projetos favoritos:</p>
 
 <ol align="center">
-  <li><a href="link">Nome do Projeto</a>: Breve descrição do projeto.</li>
-  <li><a href="link">Nome do Projeto</a>: Breve descrição do projeto.</li>
-  <li><a href="link">Nome do Projeto</a>: Breve descrição do projeto.</li>
+  <li><a href="https://github.com/scosme20/Homeschooling-Single-Page">Infinity Homeschooling</a>
+    <br>
+ A Plataforma de Homeschooling é uma solução digital que visa facilitar e enriquecer o processo de educação domiciliar para alunos, pais e tutores. Com recursos avançados de ensino e aprendizagem, a plataforma oferece uma experiência personalizada e adaptativa, atendendo às necessidades individuais de cada aluno..</li>
+  <br>
+  
+  <li><a href="https://github.com/scosme20/NexTrade-Connect">NexTrade Connect</a>
+    <br>
+A Plataforma de Comunicação Cliente-Vendedor-Fornecedor é uma solução digital que visa facilitar a comunicação e a colaboração entre esses três pilares essenciais do processo de venda e fornecimento de produtos ou serviços.</li>
+  <br>
+  <li><a href="https://github.com/scosme20/ProductPulse">Product-Pulse</a>
+  <br>
+Product Pulse é uma plataforma dinâmica que oferece uma visão abrangente sobre uma ampla gama de produtos, fornecendo aos consumidores uma avaliação precisa de sua qualidade, desempenho e valor. Com uma abordagem inovadora e centrada no usuário, Product Pulse acompanha as últimas tendências e novidades do mercado para garantir que os usuários estejam sempre informados e capacitados para tomar decisões de compra e venda inteligentes.</li>
 </ol>
 
 <h2 align="center">Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=scosme20&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scosme20&layout=compact&theme=radical" alt="Linguagens mais usadas">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seuusername&theme=radical" alt="Trophies" width="420">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=radical" alt="Streak" width="420">
+<img src="https://github-profile-trophy.vercel.app/?username=scosme20&theme=radical" alt="Trophies" width="900">
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scosme20&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2 align="center">Contato</h2>
 
 <p align="center">Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou colaboração em mente!</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sebasti%C3%A3o-cosme/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:scosmexs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
