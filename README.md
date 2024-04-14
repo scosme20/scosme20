@@ -58,7 +58,7 @@ Com uma mentalidade ágil e proativa, estou sempre pronto para enfrentar novos d
     <br>
 A Plataforma de Comunicação Cliente-Vendedor-Fornecedor é uma solução digital que visa facilitar a comunicação e a colaboração entre esses três pilares essenciais do processo de venda e fornecimento de produtos ou serviços.</li>
   <br>
-  <li><a href="https://github.com/scosme20/ProductPulse">Product-Pulse</a>
+  <li><a href="https://github.com/scosme20/Product-Pulse">Product-Pulse</a>
   <br>
 Product Pulse é uma plataforma dinâmica que oferece uma visão abrangente sobre uma ampla gama de produtos, fornecendo aos consumidores uma avaliação precisa de sua qualidade, desempenho e valor. Com uma abordagem inovadora e centrada no usuário, Product Pulse acompanha as últimas tendências e novidades do mercado para garantir que os usuários estejam sempre informados e capacitados para tomar decisões de compra e venda inteligentes.</li>
 </ol>
