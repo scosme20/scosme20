@@ -54,13 +54,13 @@ Com uma mentalidade ágil e proativa, estou sempre pronto para enfrentar novos d
  A Plataforma de Homeschooling é uma solução digital que visa facilitar e enriquecer o processo de educação domiciliar para alunos, pais e tutores. Com recursos avançados de ensino e aprendizagem, a plataforma oferece uma experiência personalizada e adaptativa, atendendo às necessidades individuais de cada aluno..</li>
   <br>
   
-  <li><a href="https://github.com/scosme20/NexTrade-Connect">NexTrade Connect</a>
+  <li>NexTrade Connect</li>
     <br>
-A Plataforma de Comunicação Cliente-Vendedor-Fornecedor é uma solução digital que visa facilitar a comunicação e a colaboração entre esses três pilares essenciais do processo de venda e fornecimento de produtos ou serviços.</li>
+A Plataforma de Comunicação Cliente-Vendedor-Fornecedor é uma solução digital que visa facilitar a comunicação e a colaboração entre esses três pilares essenciais do processo de venda e fornecimento de produtos ou serviços.</li> (em processo de mudança de stack)
   <br>
-  <li><a href="https://github.com/scosme20/Product-Pulse">Product-Pulse</a>
+  <li>Product-Pulse</li>
   <br>
-Product Pulse é uma plataforma dinâmica que oferece uma visão abrangente sobre uma ampla gama de produtos, fornecendo aos consumidores uma avaliação precisa de sua qualidade, desempenho e valor. Com uma abordagem inovadora e centrada no usuário, Product Pulse acompanha as últimas tendências e novidades do mercado para garantir que os usuários estejam sempre informados e capacitados para tomar decisões de compra e venda inteligentes.</li>
+Product Pulse é uma plataforma dinâmica que oferece uma visão abrangente sobre uma ampla gama de produtos, fornecendo aos consumidores uma avaliação precisa de sua qualidade, desempenho e valor. Com uma abordagem inovadora e centrada no usuário, Product Pulse acompanha as últimas tendências e novidades do mercado para garantir que os usuários estejam sempre informados e capacitados para tomar decisões de compra e venda inteligentes.</li> (em processo de mudança de stack)
 </ol>
 
 <h2 align="center">Estatísticas do GitHub</h2>
