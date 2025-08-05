@@ -94,12 +94,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=scosme20&theme=radical" alt="Trophies" width="900">
 </p>
 
-<h2 align="center">Outros Recursos</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scosme20&theme=react-dark&hide_border=true&area=true" alt="Gráfico de Atividades">
-</p>
-
 <h2 align="center">Contato</h2>
 
 <p align="center">Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou colaboração em mente!</p>
