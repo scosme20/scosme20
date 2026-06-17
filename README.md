@@ -1,115 +1,174 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-</p>
+# Hi, I'm Sebastião Cosme 👋
+
+Software Engineer in Training
+
+TypeScript • Java • Kotlin
+
+Software Architecture • AI Applications • Cloud Computing • Digital Products
+
+---
+
+## 🚀 About Me
+
+I'm focused on Software Engineering, Software Architecture and AI Applications.
+
+Currently studying:
+
+- TypeScript
+- Java
+- Kotlin
+- Clean Architecture
+- DDD
+- Cloud Computing
+- AI Engineering
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Sebastião+Cosme+Agostinho;Desenvolvedor+Full-Stack">
-</p>
 
-<h1 align="center">Olá! 👋</h1>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<p align="center">
-Desenvolvedor Full-Stack focado em criar soluções escaláveis, bem arquitetadas e orientadas a resultados.
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🤖 AI Tools & Assistants
 
-Sou um profissional de TI apaixonado por tecnologia, arquitetura de software e boas práticas de desenvolvimento.
+<div align="center">
 
-Atuo com **JavaScript, TypeScript, Node.js e React**, além de bancos de dados **SQL e NoSQL** e ambientes **Docker**. Busco sempre código limpo, eficiência e impacto real no negócio.
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 
-Tenho também vivência em **marketing digital e empreendedorismo**, o que me permite alinhar tecnologia à estratégia. Nos momentos livres, exploro a **produção musical**, atividade que fortalece criatividade, disciplina e pensamento sistêmico.
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 
-Acredito em **aprendizado contínuo**, colaboração e evolução constante.
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
-## 🚀 Tecnologias principais
+<img src="https://img.shields.io/badge/Prompt_Engineering-7B68EE?style=for-the-badge"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/AI_Agents-FF6B35?style=for-the-badge"/>
 
----
+</div>
 
-## 📚 Tecnologias em aprendizado
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scosme20&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scosme20&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
 
 ---
 
-## 🧠 Habilidades
+🔥 Streak
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POO-00ff00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Desenvolvimento%20Móvel-0000ff?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
+<div align="center">
 
----
+<img
+src="https://streak-stats.demolab.com?user=scosme20&theme=tokyonight"/>
 
-## 🛠️ Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 📂 Projetos em desenvolvimento
+📈 Linha 3 — Activity Graph
 
-### 🔹 Infinity Homeschooling  
-🔗 https://github.com/scosme20/Homeschooling-Single-Page  
+<div align="center">
 
-Plataforma educacional focada em **homeschooling**, oferecendo uma experiência personalizada para alunos, pais e tutores.
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=scosme20&theme=tokyo-night"/>
+
+</div>
+
+## 📚 Learning Roadmap
+
+✅ M1 - TypeScript Fundamentals
+
+✅ M2 - Object-Oriented Programming
+
+⏳ M3 - SOLID Principles
+
+⬜ M4 - Design Patterns
+
+⬜ M5 - Software Architecture
+
+⬜ M6 - Cloud Computing
+
+⬜ M7 - AI Engineering
+
+⬜ M8 - Advanced Systems
+
+⬜ M9 - Product Engineering
 
 ---
 
-### 🔹 NexTrade Connect  
-Plataforma de **comunicação entre cliente, vendedor e fornecedor**, voltada à otimização de processos comerciais.  
-🛠 *Em processo de mudança de stack.*
+## 🔬 Research Notes
+
+- AI Agents
+- SaaS Architecture
+- Software Design
+- Cloud Computing
+- Product Engineering
+- AI Applications
 
 ---
 
-### 🔹 Product Pulse  
-Plataforma voltada à **análise e avaliação de produtos**, auxiliando usuários em decisões inteligentes de compra e venda.  
-🛠 *Em processo de mudança de stack.*
+## 🚀 Featured Projects
+
+🏗️ Obra Justa
+
+♻️ Smart Waste Management
+
+🌎 Smart Sanitation Platform
+
+📈 Marketing AI
+
+🏢 GOW Platform
+
+🎮 Sports & Esports Platform
 
 ---
 
-## 📊 GitHub Metrics
+## 🎵 Beyond Code
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/scosme20?template=classic&languages=1&languages.limit=6&achievements=1&repositories=1&lines=1&followup=1&config.timezone=America/Sao_Paulo"/>
-</p>
+When I'm not building software, I enjoy studying music production, sound design and continuous learning.
 
+I believe creativity and technology complement each other in building meaningful products.
 ---
 
-## 📫 Contato
+## 📫 Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebasti%C3%A3o-cosme/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:seba.se@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-🚀 Sempre aberto a colaborações, desafios e novas oportunidades.
-</p>
+<a href="https://www.linkedin.com/in/sebastiaocosmedeveloper/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-</p>
+<a href="https://github.com/scosme20">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:corporativecosme@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@scosmexs">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/scosme20">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
+</div>
