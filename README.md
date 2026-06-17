@@ -1,7 +1,5 @@
 # Hi, I'm Sebastião Cosme 👋
 
-Software Engineer in Training
-
 TypeScript • Java • Kotlin
 
 Software Architecture • AI Applications • Cloud Computing • Digital Products
@@ -10,7 +8,11 @@ Software Architecture • AI Applications • Cloud Computing • Digital Produc
 
 ## 🚀 About Me
 
-I'm focused on Software Engineering, Software Architecture and AI Applications.
+I'm a Software Engineer in training focused on building scalable applications, AI-powered products and digital platforms.
+
+Currently learning Software Architecture, Cloud Computing and AI Engineering while developing real-world SaaS and platform projects.
+
+---
 
 Currently studying:
 
@@ -44,7 +46,7 @@ Currently studying:
 
 ---
 
-## 🤖 AI Tools & Assistants
+## 🤖 AI Engineering & Development Tools
 
 <div align="center">
 
@@ -84,7 +86,7 @@ src="https://streak-stats.demolab.com?user=scosme20&theme=tokyonight"/>
 
 ---
 
-📈 Linha 3 — Activity Graph
+📈 Activity Graph
 
 <div align="center">
 
@@ -93,27 +95,45 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=scosme20&the
 
 </div>
 
---
+---
 
 ## 📚 Learning Roadmap
 
-✅ M1 - TypeScript Fundamentals
+✅ M1 — TypeScript Fundamentals
 
-✅ M2 - Object-Oriented Programming
+✅ M2 — Object-Oriented Programming
 
-⏳ M3 - SOLID Principles
+⏳ M3 — SOLID Principles
 
-⬜ M4 - Design Patterns
+🔜 M4 — Design Patterns
 
-⬜ M5 - Software Architecture
+🔜 M5 — Software Architecture
 
-⬜ M6 - Cloud Computing
+🔜 M6 — Cloud Computing
 
-⬜ M7 - AI Engineering
+🔜 M7 — AI Engineering
 
-⬜ M8 - Advanced Systems
+🔜 M8 — Advanced Systems
 
-⬜ M9 - Product Engineering
+🔜 M9 — Product Engineering
+
+---
+
+## 🧠 AI Engineering Roadmap
+
+✅ Prompt Engineering
+
+⏳ AI APIs
+
+🔜 AI Agents
+
+🔜 RAG
+
+🔜 Vector Databases
+
+🔜 Multi-Agent Systems
+
+🔜 AI Product Architecture
 
 ---
 
@@ -128,7 +148,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=scosme20&the
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Currently Building
 
 🏗️ Obra Justa
 
@@ -177,3 +197,9 @@ I believe creativity and technology complement each other in building meaningful
 </a>
 
 </div>
+
+---
+
+🌍 Visitor Counter
+
+<img src="https://komarev.com/ghpvc/?username=scosme20&style=for-the-badge"/>
