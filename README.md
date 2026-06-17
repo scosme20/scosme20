@@ -62,6 +62,8 @@ Currently studying:
 
 </div>
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -90,6 +92,8 @@ src="https://streak-stats.demolab.com?user=scosme20&theme=tokyonight"/>
 src="https://github-readme-activity-graph.vercel.app/graph?username=scosme20&theme=tokyo-night"/>
 
 </div>
+
+--
 
 ## 📚 Learning Roadmap
 
@@ -145,6 +149,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=scosme20&the
 When I'm not building software, I enjoy studying music production, sound design and continuous learning.
 
 I believe creativity and technology complement each other in building meaningful products.
+
 ---
 
 ## 📫 Connect
