@@ -112,7 +112,10 @@ Currently deepening my knowledge of **Software Architecture**, **Cloud Computing
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scosme20&theme=tokyo-night"/>
+  <img
+    src="https://github-readme-activity-graph-git-main-scosme20s-projects.vercel.app/graph?username=scosme20&theme=tokyo-night"
+    alt="GitHub Activity Graph"
+  />
 </div>
 
 <!--
