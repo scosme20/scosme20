@@ -124,11 +124,11 @@ Currently deepening my knowledge of **Software Architecture**, **Cloud Computing
 
 ---
 
-## 🏆 Trophies
+## 🏅 GitHub Overview
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scosme20&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/scosme20?style=for-the-badge&logo=github&color=0077B5&label=Followers"/>
+</p>
 
 ---
 
