@@ -103,8 +103,8 @@ Currently deepening my knowledge of **Software Architecture**, **Cloud Computing
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scosme20&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scosme20&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-scosme20s-projects.vercel.app/api?username=scosme20&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-scosme20s-projects.vercel.app/api/top-langs/?username=scosme20&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 <div align="center">
