@@ -242,9 +242,6 @@ Every image is built from declared data and public GitHub data, and says where e
   />
 </div>
 
-<!--
-Enable these two when the DevTrace dashboards are merged into main and data/ holds your real data:
-
 <div align="center">
   <img
     width="100%"
@@ -252,6 +249,9 @@ Enable these two when the DevTrace dashboards are merged into main and data/ hol
     alt="AI Engineering Dashboard"
   />
 </div>
+
+<!--
+Enable when data/developer-activity.json and data/github.json exist in DevTrace and the file has been generated:
 
 <div align="center">
   <img
