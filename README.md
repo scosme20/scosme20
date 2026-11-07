@@ -229,6 +229,41 @@ Digital platform focused on scalable product and service experiences.
 
 ---
 
+# 🧭 DevTrace Indicators
+
+Generated with [DevTrace](https://github.com/scosme20/DevTrace), my open-source SVG generator for profile READMEs.
+Every image is built from declared data and public GitHub data, and says where each number comes from.
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/scosme20/DevTrace/HEAD/public/indicators/startup-stats.svg"
+    alt="Startup & SaaS indicator"
+  />
+</div>
+
+<!--
+Enable these two when the DevTrace dashboards are merged into main and data/ holds your real data:
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/scosme20/DevTrace/HEAD/public/indicators/ai-engineering-stats.svg"
+    alt="AI Engineering Dashboard"
+  />
+</div>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/scosme20/DevTrace/HEAD/public/indicators/developer-activity.svg"
+    alt="Developer Activity Dashboard"
+  />
+</div>
+-->
+
+---
+
 # 📊 GitHub Statistics
 
 <div align="center">
