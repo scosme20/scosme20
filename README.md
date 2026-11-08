@@ -38,11 +38,11 @@ I develop real-world projects while deepening my knowledge of **Software Archite
 
 My goal is to build software that is:
 
-* easy to evolve;
-* reliable in production;
-* well-tested;
-* scalable;
-* aligned with real business needs.
+- easy to evolve;
+- reliable in production;
+- well-tested;
+- scalable;
+- aligned with real business needs.
 
 Current interests include **backend engineering, SaaS architecture, LLM applications, AI agents, RAG, cloud infrastructure, and product engineering**.
 
@@ -143,13 +143,13 @@ Current interests include **backend engineering, SaaS architecture, LLM applicat
 
 ## 🤖 AI Tools by Use Case
 
-| Category                           | Tools                           | Usage |
-| ---------------------------------- | ------------------------------- | :---: |
+| Category                           | Tools                           |   Usage    |
+| ---------------------------------- | ------------------------------- | :--------: |
 | Code generation & pair programming | Claude, GitHub Copilot          | ⭐⭐⭐⭐⭐ |
-| Conversational / research          | ChatGPT, Gemini                 |  ⭐⭐⭐⭐ |
-| Prompt engineering                 | GPT, Claude, Gemini             |  ⭐⭐⭐⭐ |
-| Agents & automation                | Claude Agents, custom AI agents |  ⭐⭐⭐  |
-| RAG / vector search                | LangChain, embeddings APIs      |   ⭐⭐  |
+| Conversational / research          | ChatGPT, Gemini                 |  ⭐⭐⭐⭐  |
+| Prompt engineering                 | GPT, Claude, Gemini             |  ⭐⭐⭐⭐  |
+| Agents & automation                | Claude Agents, custom AI agents |   ⭐⭐⭐   |
+| RAG / vector search                | LangChain, embeddings APIs      |    ⭐⭐    |
 
 ---
 
@@ -159,9 +159,9 @@ Current interests include **backend engineering, SaaS architecture, LLM applicat
 
 | Status | Topic                        |
 | :----: | ---------------------------- |
-|    ✅   | TypeScript Fundamentals      |
-|    ✅   | Object-Oriented Programming  |
-|    ⏳   | SOLID Principles             |
+|   ✅   | TypeScript Fundamentals      |
+|   ✅   | Object-Oriented Programming  |
+|   ⏳   | SOLID Principles             |
 |   🔜   | Design Patterns              |
 |   🔜   | Software Architecture        |
 |   🔜   | Domain-Driven Design         |
@@ -174,8 +174,8 @@ Current interests include **backend engineering, SaaS architecture, LLM applicat
 
 | Status | Topic                   |
 | :----: | ----------------------- |
-|    ✅   | Prompt Engineering      |
-|    ⏳   | AI APIs                 |
+|   ✅   | Prompt Engineering      |
+|   ⏳   | AI APIs                 |
 |   🔜   | Function Calling        |
 |   🔜   | Tool Use                |
 |   🔜   | AI Agents               |
@@ -250,9 +250,6 @@ Every image is built from declared data and public GitHub data, and says where e
   />
 </div>
 
-<!--
-Enable when data/developer-activity.json and data/github.json exist in DevTrace and the file has been generated:
-
 <div align="center">
   <img
     width="100%"
@@ -260,7 +257,6 @@ Enable when data/developer-activity.json and data/github.json exist in DevTrace 
     alt="Developer Activity Dashboard"
   />
 </div>
--->
 
 ---
 
@@ -364,17 +360,17 @@ Ative novamente quando seu deployment estiver funcionando:
 
 I document part of my journey through technical articles covering topics such as:
 
-* TypeScript and Java;
-* Object-Oriented Programming;
-* SOLID and Design Patterns;
-* Software Architecture;
-* Domain-Driven Design;
-* Algorithms and Data Structures;
-* Backend Engineering;
-* Scalability;
-* AI Agents;
-* RAG and Vector Databases;
-* Software Security.
+- TypeScript and Java;
+- Object-Oriented Programming;
+- SOLID and Design Patterns;
+- Software Architecture;
+- Domain-Driven Design;
+- Algorithms and Data Structures;
+- Backend Engineering;
+- Scalability;
+- AI Agents;
+- RAG and Vector Databases;
+- Software Security.
 
 <p align="center">
   <a href="https://medium.com/@scosmexs">
