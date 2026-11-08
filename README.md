@@ -143,13 +143,13 @@ Current interests include **backend engineering, SaaS architecture, LLM applicat
 
 ## 🤖 AI Tools by Use Case
 
-| Category                           | Tools                           |   Usage    |
-| ---------------------------------- | ------------------------------- | :--------: |
-| Code generation & pair programming | Claude, GitHub Copilot          | ⭐⭐⭐⭐⭐ |
-| Conversational / research          | ChatGPT, Gemini                 |  ⭐⭐⭐⭐  |
-| Prompt engineering                 | GPT, Claude, Gemini             |  ⭐⭐⭐⭐  |
-| Agents & automation                | Claude Agents, custom AI agents |   ⭐⭐⭐   |
-| RAG / vector search                | LangChain, embeddings APIs      |    ⭐⭐    |
+| Category                           | Tools                           |
+| ---------------------------------- | ------------------------------- |
+| Code generation & pair programming | Claude, GitHub Copilot          |
+| Conversational / research          | ChatGPT, Gemini                 |
+| Prompt engineering                 | GPT, Claude, Gemini             |
+| Agents & automation                | Claude Agents, custom AI agents |
+| RAG / vector search                | LangChain, embeddings APIs      |
 
 ---
 
@@ -201,31 +201,7 @@ Platform focused on competitive gaming education, player development, performanc
 
 `Esports` `AI` `Performance` `Community` `SaaS`
 
-### ♻️ Smart Waste Management
-
-Technology platform focused on waste management, recycling operations, and sustainability.
-
-`GreenTech` `SaaS` `Data`
-
-### 🌎 Smart Sanitation Platform
-
-Digital platform focused on sanitation management and infrastructure.
-
-`GovTech` `SaaS` `Data`
-
-### 📈 Marketing AI
-
-AI-powered platform focused on marketing intelligence, automation, and decision support.
-
-`AI` `Automation` `Analytics`
-
-### 🏢 GOW Platform
-
-Digital platform focused on scalable product and service experiences.
-
-`Platform` `SaaS`
-
-> **Research focus:** AI agents, SaaS architecture, backend engineering, software design, cloud computing, distributed systems, and product engineering.
+**Also in progress:** ♻️ Smart Waste Management · 🌎 Smart Sanitation Platform · 📈 Marketing AI · 🏢 GOW Platform
 
 ---
 
@@ -260,52 +236,17 @@ Every image is built from declared data and public GitHub data, and says where e
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Streak
 
 <div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-scosme20s-projects.vercel.app/api?username=scosme20&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Sebastião's GitHub Stats"
-  />
-
-<img
- height="180em"
- src="https://github-readme-stats-scosme20s-projects.vercel.app/api/top-langs/?username=scosme20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
- alt="Sebastião's Most Used Languages"
-/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=scosme20&theme=tokyonight&hide_border=true">
+    <img
+      src="https://streak-stats.demolab.com?user=scosme20&theme=default&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </picture>
 </div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=scosme20&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph-git-main-scosme20s-projects.vercel.app/graph?username=scosme20&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</div>
-
-<!--
-Descomente quando configurar o WakaTime:
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME_USERNAME&theme=tokyonight&layout=compact"
-    alt="WakaTime Statistics"
-  />
-</div>
--->
 
 ---
 
@@ -330,47 +271,25 @@ Descomente quando configurar o WakaTime:
 
 </p>
 
-<!--
-GitHub Trophies
-
-Ative novamente quando seu deployment estiver funcionando:
-
-<div align="center">
-  <img
-    src="https://SEU-PROJETO-TROPHY.vercel.app/?username=scosme20&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true"
-    alt="GitHub Trophies"
-  />
-</div>
--->
-
 ---
 
 # 🐍 Contribution Snake
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/scosme20/scosme20/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scosme20/scosme20/output/github-contribution-grid-snake-dark.svg">
+    <img
+      src="https://raw.githubusercontent.com/scosme20/scosme20/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </div>
 
 ---
 
 # ✍️ Engineering & Learning
 
-I document part of my journey through technical articles covering topics such as:
-
-- TypeScript and Java;
-- Object-Oriented Programming;
-- SOLID and Design Patterns;
-- Software Architecture;
-- Domain-Driven Design;
-- Algorithms and Data Structures;
-- Backend Engineering;
-- Scalability;
-- AI Agents;
-- RAG and Vector Databases;
-- Software Security.
+I document part of my journey through technical articles on OOP, SOLID, design patterns, software architecture, DDD, backend engineering, AI agents, and software security.
 
 <p align="center">
   <a href="https://medium.com/@scosmexs">
