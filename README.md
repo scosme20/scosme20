@@ -189,11 +189,13 @@ Current interests include **backend engineering, SaaS architecture, LLM applicat
 
 # 🚀 Currently Building
 
-### 🏗️ Obra Justa / BuildFlow
+### 🏗️ BuildFlow
 
-Construction technology ecosystem focused on helping users, contractors, and suppliers manage projects, budgets, materials, pricing, and procurement.
+SaaS for construction project and supply-chain management, with one portal per role: client, professional and contractor, supplier, and store. Clients plan the work in stages, track schedule, budget, deliveries and the site diary, compare materials in a marketplace, and ask an AI assistant that answers only from their own project data. Stores manage catalog, inventory (ABC curve), wholesale price tiers, quotes and suggested restock; suppliers answer quotes and follow regional demand.
 
-`SaaS` `Marketplace` `DDD` `NestJS` `PostgreSQL` `AI`
+Built as a modular monolith in NestJS and TypeScript, following Domain-Driven Design and Clean Architecture, with PostgreSQL and Prisma (per-store data isolation), Redis and BullMQ queues, Outbox events, S3-compatible storage and an audit trail. API in production; private repository.
+
+`SaaS` `Marketplace` `DDD` `NestJS` `PostgreSQL` `Redis` `AI`
 
 ### 🎮 Sports & Esports Platform
 
