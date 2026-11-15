@@ -161,29 +161,29 @@ Current interests include **backend engineering, SaaS architecture, LLM applicat
 | :----: | ---------------------------- |
 |   ✅   | TypeScript Fundamentals      |
 |   ✅   | Object-Oriented Programming  |
-|   ⏳   | SOLID Principles             |
-|   🔜   | Design Patterns              |
-|   🔜   | Software Architecture        |
-|   🔜   | Domain-Driven Design         |
-|   🔜   | Distributed Systems          |
-|   🔜   | Cloud Computing              |
-|   🔜   | Advanced Backend Engineering |
-|   🔜   | Product Engineering          |
+| ✅ | SOLID Principles             |
+| ✅ | Design Patterns              |
+| ✅ | Software Architecture        |
+| ✅ | Domain-Driven Design         |
+| ✅ | Distributed Systems          |
+| ⏳ | Cloud Computing              |
+| ⏳ | Advanced Backend Engineering |
+| ⏳ | Product Engineering          |
 
 ## AI Engineering
 
 | Status | Topic                   |
 | :----: | ----------------------- |
 |   ✅   | Prompt Engineering      |
-|   ⏳   | AI APIs                 |
-|   🔜   | Function Calling        |
-|   🔜   | Tool Use                |
-|   🔜   | AI Agents               |
-|   🔜   | RAG                     |
-|   🔜   | Embeddings              |
-|   🔜   | Vector Databases        |
-|   🔜   | Multi-Agent Systems     |
-|   🔜   | AI Product Architecture |
+| ✅ | AI APIs                 |
+| ✅ | Function Calling        |
+| ✅ | Tool Use                |
+| ✅ | AI Agents               |
+| ✅ | RAG                     |
+| ✅ | Embeddings              |
+| ✅ | Vector Databases        |
+| ✅ | Multi-Agent Systems     |
+| ⏳ | AI Product Architecture |
 
 ---
 
@@ -197,13 +197,19 @@ Built as a modular monolith in NestJS and TypeScript, following Domain-Driven De
 
 `SaaS` `Marketplace` `DDD` `NestJS` `PostgreSQL` `Redis` `AI`
 
-### 🎮 Sports & Esports Platform
+### 🧭 DevTrace
 
-Platform focused on competitive gaming education, player development, performance analysis, communities, teams, tournaments, and recruitment.
+Open-source generator of SVG indicators for GitHub profile READMEs, built in TypeScript. Data is declared or observed, never invented. Runs locally or as a GitHub Action. [Repository](https://github.com/scosme20/DevTrace).
 
-`Esports` `AI` `Performance` `Community` `SaaS`
+`TypeScript` `GitHub Actions` `Open Source`
 
-**Also in progress:** ♻️ Smart Waste Management · 🌎 Smart Sanitation Platform · 📈 Marketing AI · 🏢 GOW Platform
+### 🎓 Aethel
+
+Adaptive learning ecosystem prototype for high school: personalized daily journey, cognitive diagnostics, gap remediation, spaced review with an AI tutor, international rooms with contextual translation, and school and family dashboards. Private domain and repository.
+
+`EdTech` `AI` `Prototype`
+
+**Exploring ideas:** 🎮 Sports & Esports Platform · ♻️ Smart Waste Management · 🌎 Smart Sanitation Platform · 📈 Marketing AI · 🏢 GOW Platform
 
 ---
 
